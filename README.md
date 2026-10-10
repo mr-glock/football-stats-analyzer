@@ -1,61 +1,47 @@
 # 🏈 Football Stats Analyzer
 
-A Python project that analyzes football player statistics using data storage, calculations, searching, and ranking.
+## Overview
+A Python application that analyzes football player statistics.
+It allows users to explore player performance, compare statistics,
+calculate averages, and rank players using real programming logic.
 
 ## Features
-
 - View player statistics
-- Find players with the highest and lowest yardage
-- Find players with the most and fewest touchdowns
+- Find players with the highest and lowest yards
+- Find touchdown leaders
 - Calculate team averages
-- Search for individual players
+- Search for players
 - Compare two players
 - Add new players
-- Save and load player data using JSON
-- Calculate statistics per game
-- Identify per-game leaders
+- Calculate per-game statistics
 - Rank players by yards per game
-- Validate user input and prevent duplicate players
+- Save and load player data using JSON
 
 ## Technologies Used
-
 - Python
 - JSON
-- VS Code
-- Git and GitHub
+- Git
+- GitHub
+
+## Python Concepts Demonstrated
+- Functions
+- Lists and dictionaries
+- Loops and conditional statements
+- Searching and sorting
+- Input validation
+- File handling
+- Data persistence
 
 ## How to Run
 
 1. Install Python 3.
-2. Download or clone this repository.
-3. Open the project folder in VS code.
-4. open the terminal and Run:
+2. Clone this repository.
+3. Open the project folder in your terminal.
+4. Run:
 
-   python football_stats.py
-
-## What I Learned
-
-- Working with Python lists and dictionaries
-- Writing and using functions
-- Using loops and conditional statements
-- Searching and sorting data
-- Handling invalid input
-- Reading and writing JSON files
-- Calculating statistics and averages
+   python3 football_stats.py
 
 ## Future Improvements
-
-- Add more NFL players and teams
-- Retrieve statistics from a reliable data source
-- Build a graphical user interface
-- Add visualizations to compare player performance
-
-## Example Output
-
-```text
-===== FOOTBALL STATS ANALYZER =====
-1. View All Player Stats
-2. Find Highest Yards
-3. Find Highest Touchdowns
-...
-13. Exit```
+- Add a graphical user interface
+- Visualize player performance with charts
+- Integrate a football statistics API
