@@ -1,26 +1,26 @@
 [
     {
         "name": "Bijan Robinson",
-        "games_played": 4,
-        "rushing_yards": 494,
+        "games_played": 5,
+        "rushing_yards": 580,
         "receiving_yards": 120,
         "rushing_touchdowns": 4,
         "receiving_touchdowns": 1
     },
     {
         "name": "Drake London",
-        "games_played": 4,
+        "games_played": 5,
         "rushing_yards": 4,
-        "receiving_yards": 370,
+        "receiving_yards": 488,
         "rushing_touchdowns": 0,
         "receiving_touchdowns": 0
     },
     {
         "name": "Kyle Pitts",
-        "games_played": 4,
+        "games_played": 5,
         "rushing_yards": 0,
-        "receiving_yards": 67,
+        "receiving_yards": 109,
         "rushing_touchdowns": 0,
-        "receiving_touchdowns": 0
+        "receiving_touchdowns": 1
     }
 ]
